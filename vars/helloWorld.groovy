@@ -1,3 +1,3 @@
 def call(){
-  sh "docker pull 171814/twitterapi"
+  sh "sudo docker pull 171814/twitterapi"
 }
