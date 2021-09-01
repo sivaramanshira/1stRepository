@@ -1,3 +1,3 @@
 def call(){
-  sh "docker pull python"
+  sh "sudo docker pull python"
 }
